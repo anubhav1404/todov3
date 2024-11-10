@@ -1,0 +1,15 @@
+input {
+  width: 100%;
+}
+
+.todo-container
+{
+  text-align: left;
+}
+.row
+{
+  margin: 10px;
+}
+button{
+  width: 100%;
+}
